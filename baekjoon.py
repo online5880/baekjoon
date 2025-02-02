@@ -28,7 +28,3 @@ for i in range(m):
         answer += (C[i]*(C[i]-1) // 2)
 
 print(answer)
-
-
-
-
